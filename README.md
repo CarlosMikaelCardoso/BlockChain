@@ -6,6 +6,7 @@ Um código que imita uma blockchain, juntamente com um `Banco.py` que cria conta
 Aqui está um diagrama que ilustra a estrutura do projeto:
 ![blockchain](https://github.com/user-attachments/assets/862aaaff-a856-40fc-b7ac-22ed0491cc73)
 
+
 - **blockchain.txt**: Armazena os dados da blockchain.
 - **contas.txt**: Armazena as informações das contas criadas.
 
