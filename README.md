@@ -25,6 +25,6 @@ Aqui está um diagrama que ilustra a estrutura do projeto:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/BlockChain.git
+   git clone https://github.com/CarlosMikaelCardoso/BlockChain.git
    cd BlockChain
    python Banco.py
