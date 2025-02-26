@@ -1,6 +1,6 @@
 # BlockChain
 
-Um código que imita uma blockchain, juntamente com um `Banco.py` que cria contas e realiza transações entre as contas. Todas as transações e adições de dinheiro são incluídas na blockchain.
+Um código que simula uma blockchain, juntamente com um `Banco.py` que cria contas e realiza transações entre as contas. Todas as transações e adições de dinheiro são incluídas na blockchain.
 
 ## Estrutura do Projeto
 Aqui está um diagrama que ilustra a estrutura do projeto:
